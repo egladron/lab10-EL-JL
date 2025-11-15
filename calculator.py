@@ -1,3 +1,13 @@
+"""
+calculator.py
+- Defines functions used to create a simple calculator
+
+One function per operation, in order.
+"""
+# https://github.com/egladron/lab10-EL-JL
+# Partner 1: Edwin Ladron de Guevara
+# Partner 2: Joshua Lovett
+
 import math
 
 def add(a, b): 
