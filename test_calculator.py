@@ -1,3 +1,7 @@
+# https://github.com/egladron/lab10-EL-JL
+# Partner 1: Edwin Ladron de Guevara
+# Partner 2: Joshua Lovett
+
 import unittest
 from calculator import *
 
